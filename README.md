@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently looking for internship as a data engineer
+I am currently looking for internship as a data engineer.
+Author - Rohan H G
 
 
 ## 🌐 Socials:
